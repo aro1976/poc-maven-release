@@ -3,7 +3,7 @@
   <groupId>com.github.aro1976</groupId>
   <artifactId>poc-maven-release</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <name>poc-maven-release</name>
   <url>http://maven.apache.org</url>
 
