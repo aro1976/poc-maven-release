@@ -4,7 +4,7 @@ package com.github.aro1976;
  * Hello world!
  *
  */
-public class App 
+public class PocMavenRelease
 {
     public static void main( String[] args )
     {
